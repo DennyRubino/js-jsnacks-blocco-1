@@ -8,3 +8,5 @@ const number2 = prompt("inserisci numero")
 if (number1 > number2) {alert(`Il numero maggiore è: ${number1}`);}
     
 else if (number1 < number2) {alert(`Il numero maggiore è: ${number2}`);} 
+
+else (number1 === number2); {alert("il numero è uguale")} 
